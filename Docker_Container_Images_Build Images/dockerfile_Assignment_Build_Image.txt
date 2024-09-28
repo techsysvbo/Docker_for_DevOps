@@ -1,5 +1,5 @@
 # Each instruction in this file generates a new layer that gets pushed to your local image cache
-FROM python:3.13.0b4-slim
+FROM python:3.13.0rc2-slim
 
 # Identify the maintainer of an image
 LABEL version="0.0.1"
